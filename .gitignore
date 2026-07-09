@@ -1,0 +1,8 @@
+# Obsidian - 작업공간/캐시 (설정은 유지하고 싶으면 아래 두 줄만 무시)
+.obsidian/workspace*.json
+.obsidian/cache
+.trash/
+
+# OS
+.DS_Store
+Thumbs.db
