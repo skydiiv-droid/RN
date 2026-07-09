@@ -1,0 +1,30 @@
+---
+성분명: "glibenclamide"
+분류: DUR성분
+임부금기: true
+연령금기: false
+노인주의: false
+병용금기수: 9
+태그: [성분, DUR]
+---
+
+# glibenclamide
+
+> ℹ️ DUR(의약품안전사용서비스) 정보 · 참고용. 최종 판단은 처방·원내 지침을 따릅니다.
+> 출처: 건강보험심사평가원 DUR 의약품 목록 (2026.6)
+
+## 🚫 병용금기 (9)
+함께 투여 금기인 성분:
+
+- [[bosentan hydrate (as bosentan)]] — 간독성 및 간효소치 상승
+- [[ethyl esters of the iodised fatty acids of poppyseed oil]] — 기능성 신부전에 의한 유산산성증 촉진
+- [[iobitridol]] — 기능성 신부전에 의한 유산산성증 촉진
+- [[iodixanol]] — 기능성 신부전에 의한 유산산성증 촉진
+- [[iohexol]] — 기능성 신부전에 의한 유산산성증 촉진
+- [[iomeprol]] — 기능성 신부전에 의한 유산산성증 촉진
+- [[iopamidol]] — 기능성 신부전에 의한 유산산성증 촉진
+- [[iopromide]] — 기능성 신부전에 의한 유산산성증 촉진
+- [[ioversol]] — 기능성 신부전에 의한 유산산성증 촉진
+
+## 🤰 임부금기
+- **등급 2** — 신생아에서 저혈당 또는 거대아 확인.동물실험에서 기형발생 작용 보고.

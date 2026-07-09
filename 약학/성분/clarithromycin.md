@@ -1,5 +1,5 @@
 ---
-성분명: clarithromycin
+성분명: "clarithromycin"
 분류: DUR성분
 임부금기: true
 연령금기: false

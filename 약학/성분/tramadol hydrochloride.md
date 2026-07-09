@@ -1,5 +1,5 @@
 ---
-성분명: tramadol hydrochloride
+성분명: "tramadol hydrochloride"
 분류: DUR성분
 임부금기: false
 연령금기: true

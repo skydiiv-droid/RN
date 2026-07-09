@@ -1,0 +1,25 @@
+---
+성분명: "lansoprazole granule (as lansoprazole)"
+분류: DUR성분
+임부금기: true
+연령금기: false
+노인주의: false
+병용금기수: 4
+태그: [성분, DUR]
+---
+
+# lansoprazole granule (as lansoprazole)
+
+> ℹ️ DUR(의약품안전사용서비스) 정보 · 참고용. 최종 판단은 처방·원내 지침을 따릅니다.
+> 출처: 건강보험심사평가원 DUR 의약품 목록 (2026.6)
+
+## 🚫 병용금기 (4)
+함께 투여 금기인 성분:
+
+- [[atazanavir sulfate (as atazanavir)]] — 아타자나비르의 혈중농도 감소
+- [[cobicistat silicon dioxide (as cobicistat)]] — 아타자나비르의 혈중농도 감소
+- [[neratinib maleate (as neratinib)]] — 위산 억제제와의 병용으로 Neratinib의 혈중 농도 감소
+- [[rilpivirine hydrochloride (as rilpivirine)]] — 위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소
+
+## 🤰 임부금기
+- **등급 2** — 임부에 대한 안전성 미확립. 토끼(경구 30 mg/kg)에서 태자사망율의 증가가 인정됨. 임신 랫트를 대상으로 모체에 이 약을 투여한 태아에서 골성장 지연이 보고됨.

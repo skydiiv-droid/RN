@@ -1,5 +1,5 @@
 ---
-성분명: warfarin
+성분명: "warfarin"
 분류: DUR성분
 임부금기: true
 연령금기: false
