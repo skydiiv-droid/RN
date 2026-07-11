@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>약품 검색</title>
 <style>
-:root{--bg:#f6f7f9;--card:#fff;--tx:#1a1d21;--sub:#697079;--line:#e4e7eb;--pri:#2f6df6;--pri2:#e8f0ff;--warn:#c0392b}
-@media(prefers-color-scheme:dark){:root{--bg:#0f1216;--card:#181c22;--tx:#e8eaed;--sub:#98a0aa;--line:#272c34;--pri:#4d86ff;--pri2:#17233d;--warn:#ff6b5e}}
+:root{--bg:#f6f7f9;--card:#fff;--tx:#1a1d21;--sub:#697079;--line:#e4e7eb;--pri:#2f6df6;--pri2:#e8f0ff;--warn:#c0392b;--warnbg:#fff2f0;--warnln:#f3c9c3}
+@media(prefers-color-scheme:dark){:root{--bg:#0f1216;--card:#181c22;--tx:#e8eaed;--sub:#98a0aa;--line:#272c34;--pri:#4d86ff;--pri2:#17233d;--warn:#ff8073;--warnbg:#2a1715;--warnln:#4a2420}}
 *{box-sizing:border-box}
 body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;background:var(--bg);color:var(--tx);-webkit-text-size-adjust:100%}
 header{position:sticky;top:0;background:var(--bg);padding:12px 14px 8px;border-bottom:1px solid var(--line);z-index:10}
@@ -43,6 +43,14 @@ main{padding:12px 14px 40px}
 .x{position:sticky;top:0;float:right;font-size:22px;color:var(--sub);cursor:pointer;padding:0 6px}
 .note{font-size:12px;color:var(--sub);margin-top:6px;line-height:1.5}
 .ld{text-align:center;padding:30px;color:var(--sub)}
+.dur{background:var(--warnbg);border:1px solid var(--warnln);border-radius:12px;padding:12px 14px;margin-bottom:10px}
+.durH{font-size:14px;font-weight:700;color:var(--warn);margin-bottom:8px}
+.durIng{margin-bottom:10px}
+.durIng:last-child{margin-bottom:0}
+.durNm{font-size:13.5px;font-weight:700;margin:6px 0 3px;padding-bottom:2px;border-bottom:1px solid var(--warnln)}
+.durT{font-size:12.5px;font-weight:700;margin:6px 0 2px}
+.durL{margin:0 0 4px;padding-left:18px}
+.durL li{font-size:13px;line-height:1.5;margin-bottom:2px}
 </style>
 </head>
 <body>
@@ -78,10 +86,12 @@ main{padding:12px 14px 40px}
 var IDX=[], mode='name', shown=0, cur=[], PAGE=60;
 var COLORS=['하양','노랑','분홍','주황','빨강','갈색','연두','초록','파랑','보라','회색','검정','투명'];
 var SHAPES=['원형','타원형','장방형','삼각형','사각형','오각형','육각형','팔각형','마름모형','반원형','기타'];
-var selColors={}, dt=null;
+var selColors={}, dt=null, DUR={}, durPat=null;
 
 fetch('index.json').then(r=>r.json()).then(d=>{IDX=d;initFilters();document.getElementById('cnt').textContent=d.length.toLocaleString()+'개 의약품 · 이름이나 성분을 입력하세요';}).catch(e=>{document.getElementById('cnt').textContent='데이터 로드 실패';});
+fetch('dur.json').then(r=>r.json()).then(d=>{DUR=d;var ks=Object.keys(d).filter(k=>k.length>=2).sort((a,b)=>b.length-a.length);durPat=new RegExp(ks.map(escRe).join('|'),'g');}).catch(e=>{});
 
+function escRe(s){return s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');}
 function initFilters(){
   var c=document.getElementById('colors');
   COLORS.forEach(col=>{var el=document.createElement('div');el.className='chip';el.textContent=col;el.onclick=function(){selColors[col]=!selColors[col];el.classList.toggle('on');deb(runPill);};c.appendChild(el);});
@@ -105,7 +115,7 @@ function runName(){
   var starts=[],incl=[];
   for(var i=0;i<IDX.length;i++){var r=IDX[i];
     var hay=(r.n+' '+(r.e||'')+' '+(r.s||'')).toLowerCase();
-    var p=hay.indexOf(q); if(p<0)continue;
+    if(hay.indexOf(q)<0)continue;
     (r.n.toLowerCase().indexOf(q)==0?starts:incl).push(r);
   }
   cur=starts.concat(incl);render();
@@ -151,6 +161,30 @@ function openD(id,sh){
   fetch('d/'+sh+'.json').then(r=>r.json()).then(d=>{shardCache[sh]=d;go(d);}).catch(e=>{det.innerHTML='<div class="ld">상세 로드 실패</div>';});
 }
 function sec(title,txt){if(!txt)return '';return '<div class="sec"><h3>'+title+'</h3><div class="t">'+esc(txt)+'</div></div>';}
+function durList(title,arr){var h='<div class="durT">'+title+'</div><ul class="durL">';arr.forEach(function(t){if(t)h+='<li>'+esc(t)+'</li>';});return h+'</ul>';}
+function durSection(d){
+  if(!durPat)return '';
+  var s=d['성분']||{};
+  var ing=(s['주성분']||'')+' '+(s['원료']||'');
+  var found=[],seen={},m; durPat.lastIndex=0;
+  while((m=durPat.exec(ing))){if(!seen[m[0]]){seen[m[0]]=1;found.push(m[0]);}}
+  if(!found.length)return '';
+  var html='';
+  found.forEach(function(nm){
+    var w=DUR[nm]; if(!w)return; var p='';
+    if(w['병용금기'])p+=durList('🚫 병용금기',w['병용금기'].map(x=>x[0]+(x[1]?' — '+x[1]:'')));
+    if(w['임부금기'])p+=durList('🤰 임부금기',w['임부금기'].map(x=>(x[0]?'['+x[0]+'] ':'')+(x[1]||'')));
+    if(w['연령금기'])p+=durList('👶 연령금기',w['연령금기'].map(x=>(x[0]?'['+x[0]+'] ':'')+(x[1]||'')));
+    if(w['노인주의'])p+=durList('👴 노인주의',w['노인주의'].map(x=>x[0]||''));
+    if(w['용량주의'])p+=durList('⚖️ 용량주의',w['용량주의'].map(x=>(x[0]?'[1일최대 '+x[0]+'] ':'')+(x[1]||'')));
+    if(w['투여기간주의'])p+=durList('⏱️ 투여기간주의',w['투여기간주의'].map(x=>(x[0]?'[최대 '+x[0]+'] ':'')+(x[1]||'')));
+    if(w['효능군중복'])p+=durList('🔁 효능군중복',w['효능군중복'].map(x=>(x[0]?'['+x[0]+'] ':'')+(x[1]||'')));
+    if(w['첨가제주의'])p+=durList('🧪 첨가제주의',w['첨가제주의'].map(x=>x[0]||''));
+    if(p)html+='<div class="durIng"><div class="durNm">'+esc(nm)+'</div>'+p+'</div>';
+  });
+  if(!html)return '';
+  return '<div class="dur"><div class="durH">⚠️ DUR 안전정보 (성분 기준)</div>'+html+'</div>';
+}
 function renderD(id,d){
   var det=document.getElementById('detail');
   if(!d){det.innerHTML='정보 없음';return;}
@@ -159,6 +193,7 @@ function renderD(id,d){
   var h='<h2>'+badge+esc(idx.n||'')+'</h2>';
   if(idx.e)h+='<div class="en">'+esc(idx.e)+'</div>';
   if(idx.img)h+='<img class="pill" src="'+idx.img+'">';
+  h+=durSection(d);
   var e=d['e약은요']||{};
   h+=sec('효능', e['효능']||d['효능효과']);
   h+=sec('용법·용량', e['용법']||d['용법용량']);
@@ -174,7 +209,7 @@ function renderD(id,d){
   if(d['성상'])info.push('성상: '+d['성상']);
   if(d['업체'])info.push('업체: '+d['업체']);
   h+=sec('기타', info.join('\n'));
-  h+='<div class="note">ℹ️ 참고용 · 최종 판단은 처방·원내 지침을 따릅니다. 병용금기 등 DUR은 Obsidian 성분 노트를 함께 확인하세요.<br>출처: 식약처 공공데이터</div>';
+  h+='<div class="note">ℹ️ 참고용 · 최종 판단은 처방·원내 지침을 따릅니다. DUR은 성분명 매칭 기준이라 실제와 다를 수 있어요.<br>출처: 식약처 공공데이터 (DUR: 식약처 DUR 성분정보)</div>';
   det.innerHTML=h;det.parentNode.scrollTop=0;
 }
 function closeSheet(){document.getElementById('ov').classList.remove('on');document.body.style.overflow='';}
