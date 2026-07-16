@@ -1,0 +1,17 @@
+---
+성분명: "dimenhydrinate, scopolamine hydrobromide"
+분류: DUR성분
+임부금기: true
+연령금기: false
+노인주의: false
+병용금기수: 0
+태그: [성분, DUR]
+---
+
+# dimenhydrinate, scopolamine hydrobromide
+
+> ℹ️ DUR(의약품안전사용서비스) 정보 · 참고용. 최종 판단은 처방·원내 지침을 따릅니다.
+> 출처: 건강보험심사평가원 DUR 의약품 목록 (2026.6)
+
+## 🤰 임부금기
+- **등급 2** — dimenhydrinate:유사 화합물의 동물실험(랫트)에서 기형발생 보고/scopolamine hydrobromide:태아에 대한 부작용 위험성. 동물 실험에서 기형 보고
