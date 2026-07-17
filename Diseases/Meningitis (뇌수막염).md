@@ -27,7 +27,7 @@
 
 ## 간호
 - 신경학적·활력 감시, 격리주의
-- [[Isolation Precautions]] 연계
+- [[Isolation Precautions (의료기관의격리주의지침)]] 연계
 
 ## 관련
 - [[Sepsis (패혈증)]]

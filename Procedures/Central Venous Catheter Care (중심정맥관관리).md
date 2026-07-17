@@ -26,4 +26,4 @@
 - 드레싱 교체 주기
 
 ## 관련
-- [[중심정맥주입요법]] · [[Blood culture (혈액배양)]] · [[Sepsis (패혈증)]]
+- [[Central Venous Therapy (중심정맥주입요법)]] · [[Blood culture (혈액배양)]] · [[Sepsis (패혈증)]]

@@ -23,7 +23,7 @@
 
 ## 수술 후 간호
 - **탈구 예방 자세(과굴곡·내전 금지)**·외전베개
-- VTE 예방([[정맥혈전색전증예방간호]])·조기재활·[[낙상관리]]
+- VTE 예방([[VTE Prophylaxis (정맥혈전색전증예방간호)]])·조기재활·[[Fall Management (낙상관리)]]
 
 ## 관련
-- [[Deep Vein Thrombosis (심부정맥혈전증)]] · [[정맥혈전색전증예방간호]] · [[낙상관리]]
+- [[Deep Vein Thrombosis (심부정맥혈전증)]] · [[VTE Prophylaxis (정맥혈전색전증예방간호)]] · [[Fall Management (낙상관리)]]

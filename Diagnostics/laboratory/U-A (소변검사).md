@@ -41,4 +41,4 @@ LOINC: "24357-6"
 - 단백뇨 지속 → 신장 평가
 
 ## 관련
-- [[Urinary Tract Infection (요로감염)]] · [[Chronic Kidney Disease (만성콩팥병)]] · [[유치도뇨간호]]
+- [[Urinary Tract Infection (요로감염)]] · [[Chronic Kidney Disease (만성콩팥병)]] · [[Indwelling Catheter Care (유치도뇨간호)]]

@@ -25,4 +25,4 @@
 - 혈액·체액 주의
 
 ## 관련
-- [[HBV markers (B형간염표지자)]] · [[의료기관의격리주의지침]]
+- [[HBV markers (B형간염표지자)]] · [[Isolation Precautions (의료기관의격리주의지침)]]

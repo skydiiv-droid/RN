@@ -27,4 +27,4 @@
 - 영양·기저질환([[Diabetes Mellitus (당뇨병)]]) 고려
 
 ## 관련
-- [[욕창간호]] · [[Diabetes Mellitus (당뇨병)]]
+- [[Pressure Injury Care (욕창간호)]] · [[Diabetes Mellitus (당뇨병)]]

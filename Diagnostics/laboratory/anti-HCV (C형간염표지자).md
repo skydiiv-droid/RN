@@ -22,4 +22,4 @@
 - DAA 항바이러스제로 완치율 높음 → 치료 연계
 
 ## 관련
-- [[HBV markers (B형간염표지자)]] · [[Hepatitis (간염)]] · [[의료기관의격리주의지침]]
+- [[HBV markers (B형간염표지자)]] · [[Hepatitis (간염)]] · [[Isolation Precautions (의료기관의격리주의지침)]]

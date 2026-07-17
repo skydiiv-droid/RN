@@ -25,7 +25,7 @@
 - 칼슘·비타민D·비스포스포네이트
 
 ## 간호
-- 낙상예방([[Fall Management]])·골절주의·운동
+- 낙상예방([[Fall Management (낙상관리)]])·골절주의·운동
 
 ## 관련
 - [[Hip Replacement (고관절치환술)]]

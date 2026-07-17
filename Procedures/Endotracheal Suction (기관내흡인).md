@@ -26,4 +26,4 @@
 - 과도한 흡인 지양
 
 ## 관련
-- [[인공기도흡인간호]] · [[Pneumonia (폐렴)]] · [[Oxygen Therapy (산소요법)]]
+- [[Airway Suction (인공기도흡인간호)]] · [[Pneumonia (폐렴)]] · [[Oxygen Therapy (산소요법)]]
