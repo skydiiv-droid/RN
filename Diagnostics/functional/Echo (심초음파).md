@@ -5,7 +5,7 @@
 태그: [검사, functional, 순환]
 ---
 
-# Echocardiography (심초음파)
+# Echo (심초음파)
 
 > ℹ️ 참고용 · 판독은 의사. 준비·간호는 원내 지침.
 

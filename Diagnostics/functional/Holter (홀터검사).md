@@ -5,7 +5,7 @@
 태그: [검사, functional, 순환]
 ---
 
-# Holter Monitoring (홀터검사)
+# Holter (홀터검사)
 
 > ℹ️ 참고용 · 판독은 의사. 준비·간호는 원내 지침.
 
@@ -24,4 +24,4 @@
 - [[Atrial Fibrillation (심방세동)]] 등 부정맥 포착
 
 ## 관련
-- [[Atrial Fibrillation (심방세동)]] · [[ECG-EKG (심전도)]]
+- [[Atrial Fibrillation (심방세동)]] · [[EKG (심전도)]]

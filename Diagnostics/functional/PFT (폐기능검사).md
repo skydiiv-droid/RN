@@ -5,7 +5,7 @@
 태그: [검사, functional, 호흡]
 ---
 
-# Pulmonary Function Test (폐기능검사)
+# PFT (폐기능검사)
 
 > ℹ️ 참고용 · 판독은 의사. 준비·간호는 원내 지침.
 

@@ -5,7 +5,7 @@
 태그: [검사, functional, 소화]
 ---
 
-# Esophagogastroduodenoscopy (위내시경)
+# EGD (위내시경)
 
 > ℹ️ 참고용 · 판독은 의사. 준비·간호는 원내 지침.
 
