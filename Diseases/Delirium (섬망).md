@@ -31,4 +31,4 @@
 - [[Fall Management (낙상관리)]] 연계
 
 ## 관련
-- [[치매]] · [[Pneumonia (폐렴)]]
+- [[Dementia (치매)]] · [[Pneumonia (폐렴)]]

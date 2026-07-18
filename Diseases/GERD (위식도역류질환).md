@@ -22,7 +22,7 @@
 - [[내시경]]
 
 ## 치료
-- [[Proton Pump Inhibitors]]·생활습관
+- [[Proton Pump Inhibitors (프로톤펌프억제제)]]·생활습관
 
 ## 간호
 - 식후 눕기 금지·상체거상·자극식 회피 교육

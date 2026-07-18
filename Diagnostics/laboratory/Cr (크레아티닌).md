@@ -26,7 +26,7 @@ LOINC: "2160-0"
 - 근육량 감소·고령·악액질
 
 ## 영향 약물
-- ↑ 상승: [[겐타마이신]] · [[반코마이신]] · [[조영제]] · [[Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)]] · [[ACE Inhibitors (ACE억제제)]]
+- ↑ 상승: [[Gentamicin (겐타마이신)]] · [[반코마이신]] · [[조영제]] · [[Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)]] · [[ACE Inhibitors (ACE억제제)]]
 
 ## 간호 포인트
 - 신독성 약물 투여 전후 감시

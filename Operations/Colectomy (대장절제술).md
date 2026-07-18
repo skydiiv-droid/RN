@@ -26,4 +26,4 @@
 - 조기이상·수분전해질
 
 ## 관련
-- [[대장암]] · [[Ostomy Care (장루간호)]]
+- [[Colorectal Cancer (대장암)]] · [[Ostomy Care (장루간호)]]

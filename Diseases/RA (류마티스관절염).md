@@ -23,7 +23,7 @@
 - [[RF (류마티스인자)]] · [[CRP (C반응단백)]] · [[ESR (적혈구침강속도)]]
 
 ## 치료
-- DMARDs·[[NSAIDs]]·스테로이드·생물학제제
+- DMARDs·[[Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)]]·스테로이드·생물학제제
 
 ## 간호
 - 통증·관절보호·투약 부작용

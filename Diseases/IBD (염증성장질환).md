@@ -27,7 +27,7 @@
 
 ## 간호
 - 배변·영양·수분전해질, 스테로이드 부작용
-- [[Corticosteroids]]
+- [[Corticosteroids (코르티코스테로이드)]]
 
 ## 관련
 - [[Anemia (빈혈)]]

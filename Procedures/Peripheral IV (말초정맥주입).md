@@ -27,4 +27,4 @@
 - 수액 속도·잔량 확인
 
 ## 관련
-- [[Blood Transfusion (수혈)]] · [[정맥염]]
+- [[Blood Transfusion (수혈)]] · [[Phlebitis (정맥염)]]

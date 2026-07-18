@@ -16,7 +16,7 @@
 - 유전·방사선·화학물질
 
 ## 증상·징후
-- 빈혈·출혈([[Thrombocytopenia]])·감염([[Neutropenia]])·발열
+- 빈혈·출혈([[Thrombocytopenia (혈소판감소증)]])·감염([[Neutropenia (호중구감소증)]])·발열
 
 ## 진단 (검사)
 - [[CBC (전혈구계산)]] · [[골수검사]] · [[LDH (젖산탈수소효소)]]
@@ -26,7 +26,7 @@
 
 ## 간호
 - **감염(역격리)·출혈·수혈 관리**
-- [[Neutropenia]]·[[Thrombocytopenia]] 대비
+- [[Neutropenia (호중구감소증)]]·[[Thrombocytopenia (혈소판감소증)]] 대비
 
 ## 관련
 - [[Anemia (빈혈)]] · [[Neutropenia (호중구감소증)]] · [[Thrombocytopenia (혈소판감소증)]]

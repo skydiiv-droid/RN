@@ -28,4 +28,4 @@
 - [[Anemia (빈혈)]]·B12 추적
 
 ## 관련
-- [[위암]] · [[Anemia (빈혈)]] · [[Nasogastric Tube (비위관삽입)]]
+- [[Gastric Cancer (위암)]] · [[Anemia (빈혈)]] · [[Nasogastric Tube (비위관삽입)]]

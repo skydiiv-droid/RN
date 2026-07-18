@@ -13,7 +13,7 @@
 상부/하부 위장관의 출혈(토혈·흑색변·혈변).
 
 ## 원인·유발
-- [[소화성궤양]]·정맥류·게실·종양·[[NSAIDs]]
+- [[PUD (소화성궤양)]]·정맥류·게실·종양·[[Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)]]
 
 ## 증상·징후
 - 토혈·흑색변·혈변·저혈압·빈맥
@@ -26,7 +26,7 @@
 
 ## 간호
 - 활력·출혈량·의식 밀착, 수혈 준비
-- [[Blood Transfusion]]
+- [[Blood Transfusion (수혈)]]
 
 ## 관련
 - [[Anemia (빈혈)]] · [[PUD (소화성궤양)]]

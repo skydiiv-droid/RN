@@ -25,4 +25,4 @@
 - 간암 고위험군(간경화·B형간염) 선별·추적
 
 ## 관련
-- [[간암]] · [[Hepatitis (간염)]]
+- [[Hepatocellular Carcinoma (간암)]] · [[Hepatitis (간염)]]
