@@ -29,4 +29,4 @@
 - [[Blood Transfusion]]
 
 ## 관련
-- [[Anemia (빈혈)]] · [[Peptic Ulcer Disease (소화성궤양)]]
+- [[Anemia (빈혈)]] · [[PUD (소화성궤양)]]

@@ -27,4 +27,4 @@
 - INR/aPTT 모니터·역전제(비타민K·프로타민)
 
 ## 관련
-- [[Atrial Fibrillation (심방세동)]] · [[Pulmonary Embolism (폐색전증)]] · [[Deep Vein Thrombosis (심부정맥혈전증)]]
+- [[AF (심방세동)]] · [[PE (폐색전증)]] · [[DVT (심부정맥혈전증)]]

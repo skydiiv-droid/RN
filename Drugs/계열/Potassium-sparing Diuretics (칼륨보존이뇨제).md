@@ -24,4 +24,4 @@
 - [[K (칼륨)]] 감시·칼륨보충/대체염 주의
 
 ## 관련
-- [[Heart Failure (심부전)]] · [[Liver Cirrhosis (간경화)]] · [[K (칼륨)]]
+- [[HF (심부전)]] · [[Liver Cirrhosis (간경화)]] · [[K (칼륨)]]

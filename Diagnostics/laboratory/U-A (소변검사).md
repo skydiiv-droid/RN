@@ -19,7 +19,7 @@ LOINC: "24357-6"
 |---|---|---|
 | **비중(SG)** | 1.005–1.030 | ↑탈수 / ↓요붕증·수분과다 |
 | **pH** | 4.5–8.0 | 결석·산염기·감염 |
-| **단백(Protein)** | 음성 | 신질환·[[Chronic Kidney Disease (만성콩팥병)]]·전자간증 |
+| **단백(Protein)** | 음성 | 신질환·[[CKD (만성콩팥병)]]·전자간증 |
 | **당(Glucose)** | 음성 | 당뇨(혈당 >180) |
 | **케톤(Ketone)** | 음성 | 당뇨케톤산증·금식·기아 |
 | **잠혈(Blood)** | 음성 | 요로결석·감염·사구체신염·종양 |
@@ -41,4 +41,4 @@ LOINC: "24357-6"
 - 단백뇨 지속 → 신장 평가
 
 ## 관련
-- [[Urinary Tract Infection (요로감염)]] · [[Chronic Kidney Disease (만성콩팥병)]] · [[Indwelling Catheter Care (유치도뇨간호)]]
+- [[UTI (요로감염)]] · [[CKD (만성콩팥병)]] · [[Indwelling Catheter Care (유치도뇨간호)]]

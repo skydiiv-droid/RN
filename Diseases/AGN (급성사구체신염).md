@@ -5,7 +5,7 @@
 태그: [질환, 신장]
 ---
 
-# Acute Glomerulonephritis (급성사구체신염)
+# AGN (급성사구체신염)
 
 > ℹ️ 참고용 · 최종 판단은 의사·최신 임상진료지침.
 
@@ -28,4 +28,4 @@
 - I/O·체중·혈압·부종, 저염
 
 ## 관련
-- [[Chronic Kidney Disease (만성콩팥병)]] · [[Hypertension (고혈압)]]
+- [[CKD (만성콩팥병)]] · [[HTN (고혈압)]]

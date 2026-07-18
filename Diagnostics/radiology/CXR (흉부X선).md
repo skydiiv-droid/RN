@@ -20,8 +20,8 @@
 - 방사선(임신 확인)
 
 ## 간호
-- [[Pneumonia (폐렴)]]·[[Heart Failure (심부전)]] 추적
+- [[Pneumonia (폐렴)]]·[[HF (심부전)]] 추적
 - 튜브·라인 위치 확인
 
 ## 관련
-- [[Pneumonia (폐렴)]] · [[Heart Failure (심부전)]]
+- [[Pneumonia (폐렴)]] · [[HF (심부전)]]

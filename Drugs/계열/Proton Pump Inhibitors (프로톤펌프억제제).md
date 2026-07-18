@@ -26,4 +26,4 @@
 - 장기복용 필요성 재평가
 
 ## 관련
-- [[Peptic Ulcer Disease (소화성궤양)]] · [[Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)]]
+- [[PUD (소화성궤양)]] · [[Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)]]

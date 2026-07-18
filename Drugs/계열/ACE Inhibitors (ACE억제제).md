@@ -27,4 +27,4 @@
 - 첫 투여 저혈압 주의
 
 ## 관련
-- [[Hypertension (고혈압)]] · [[Heart Failure (심부전)]] · [[Diabetes Mellitus (당뇨병)]]
+- [[HTN (고혈압)]] · [[HF (심부전)]] · [[DM (당뇨병)]]

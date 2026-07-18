@@ -27,4 +27,4 @@
 - 급작스런 중단 금지
 
 ## 관련
-- [[Hypertension (고혈압)]] · [[Heart Failure (심부전)]] · [[Acute Myocardial Infarction (급성심근경색)]]
+- [[HTN (고혈압)]] · [[HF (심부전)]] · [[AMI (급성심근경색)]]

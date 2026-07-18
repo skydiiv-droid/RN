@@ -24,4 +24,4 @@
 - 심박수·신기능·알레르기 확인, 조영 후 수분
 
 ## 관련
-- [[Angina Pectoris (협심증)]] · [[Acute Myocardial Infarction (급성심근경색)]]
+- [[Angina Pectoris (협심증)]] · [[AMI (급성심근경색)]]

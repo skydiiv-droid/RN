@@ -25,4 +25,4 @@
 - 부종·혈압·심박 확인
 
 ## 관련
-- [[Hypertension (고혈압)]] · [[Angina Pectoris (협심증)]]
+- [[HTN (고혈압)]] · [[Angina Pectoris (협심증)]]

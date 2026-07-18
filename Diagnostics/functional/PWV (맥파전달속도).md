@@ -16,7 +16,7 @@
 - 사지 혈압·맥파 측정
 
 ## 간호
-- [[Hypertension (고혈압)]]·[[Dyslipidemia (이상지질혈증)]] 위험평가
+- [[HTN (고혈압)]]·[[Dyslipidemia (이상지질혈증)]] 위험평가
 
 ## 관련
-- [[Hypertension (고혈압)]] · [[Dyslipidemia (이상지질혈증)]]
+- [[HTN (고혈압)]] · [[Dyslipidemia (이상지질혈증)]]

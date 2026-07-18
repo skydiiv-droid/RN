@@ -18,7 +18,7 @@
 - 티카그렐러
 
 ## ⚠️ 주요 주의
-- 출혈·위장관 출혈([[Peptic Ulcer Disease (소화성궤양)]])
+- 출혈·위장관 출혈([[PUD (소화성궤양)]])
 - 수술 전 중단 여부 확인
 
 ## 간호
@@ -26,4 +26,4 @@
 - 시술 전 중단 지침 확인
 
 ## 관련
-- [[Acute Myocardial Infarction (급성심근경색)]] · [[Stroke (뇌졸중)]] · [[Peptic Ulcer Disease (소화성궤양)]]
+- [[AMI (급성심근경색)]] · [[Stroke (뇌졸중)]] · [[PUD (소화성궤양)]]

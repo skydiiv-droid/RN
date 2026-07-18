@@ -34,4 +34,4 @@
 - 불안정형→경색 진행 감시
 
 ## 관련
-- [[Acute Myocardial Infarction (급성심근경색)]] · [[Dyslipidemia (이상지질혈증)]]
+- [[AMI (급성심근경색)]] · [[Dyslipidemia (이상지질혈증)]]

@@ -38,4 +38,4 @@
 - 수혈 시 반응 감시
 
 ## 관련
-- [[CBC (전혈구계산)]] · [[Ferritin (페리틴)]] · [[Chronic Kidney Disease (만성콩팥병)]]
+- [[CBC (전혈구계산)]] · [[Ferritin (페리틴)]] · [[CKD (만성콩팥병)]]

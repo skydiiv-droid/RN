@@ -16,7 +16,7 @@
 - 인공관절 치환
 
 ## 주요 합병증
-- **탈구**·[[Deep Vein Thrombosis (심부정맥혈전증)]]/[[Pulmonary Embolism (폐색전증)]]·감염·출혈
+- **탈구**·[[DVT (심부정맥혈전증)]]/[[PE (폐색전증)]]·감염·출혈
 
 ## 수술 전 간호
 - [[CBC (전혈구계산)]]·수혈 준비
@@ -26,4 +26,4 @@
 - VTE 예방([[VTE Prophylaxis (정맥혈전색전증예방간호)]])·조기재활·[[Fall Management (낙상관리)]]
 
 ## 관련
-- [[Deep Vein Thrombosis (심부정맥혈전증)]] · [[VTE Prophylaxis (정맥혈전색전증예방간호)]] · [[Fall Management (낙상관리)]]
+- [[DVT (심부정맥혈전증)]] · [[VTE Prophylaxis (정맥혈전색전증예방간호)]] · [[Fall Management (낙상관리)]]

@@ -19,11 +19,11 @@
 - 출혈·부정맥·감염·심근손상
 
 ## 수술 전 간호
-- 항혈소판 중단 지침·[[Acute Myocardial Infarction (급성심근경색)]] 관련 평가
+- 항혈소판 중단 지침·[[AMI (급성심근경색)]] 관련 평가
 
 ## 수술 후 간호
 - 혈역학·부정맥([[EKG (심전도)]])·흉관배액
 - 통증·호흡운동·상처
 
 ## 관련
-- [[Acute Myocardial Infarction (급성심근경색)]] · [[Angina Pectoris (협심증)]]
+- [[AMI (급성심근경색)]] · [[Angina Pectoris (협심증)]]

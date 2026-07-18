@@ -24,7 +24,7 @@
 ## 간호
 - 상처 단계별 드레싱
 - 통증 관리
-- 영양·기저질환([[Diabetes Mellitus (당뇨병)]]) 고려
+- 영양·기저질환([[DM (당뇨병)]]) 고려
 
 ## 관련
-- [[Pressure Injury Care (욕창간호)]] · [[Diabetes Mellitus (당뇨병)]]
+- [[Pressure Injury Care (욕창간호)]] · [[DM (당뇨병)]]

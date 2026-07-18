@@ -28,4 +28,4 @@
 - 부종·체중·감염 주의(면역저하)
 
 ## 관련
-- [[Chronic Kidney Disease (만성콩팥병)]] · [[Corticosteroids (코르티코스테로이드)]]
+- [[CKD (만성콩팥병)]] · [[Corticosteroids (코르티코스테로이드)]]

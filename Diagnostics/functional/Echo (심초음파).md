@@ -19,8 +19,8 @@
 - 경식도(TEE): 금식·진정
 
 ## 간호
-- [[Heart Failure (심부전)]] EF 평가·추적
+- [[HF (심부전)]] EF 평가·추적
 - TEE 시 연하반사 회복 확인
 
 ## 관련
-- [[Heart Failure (심부전)]] · [[Atrial Fibrillation (심방세동)]]
+- [[HF (심부전)]] · [[AF (심방세동)]]

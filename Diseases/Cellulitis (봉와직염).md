@@ -29,4 +29,4 @@
 - [[Diabetes Mellitus]] 위험군
 
 ## 관련
-- [[Diabetes Mellitus (당뇨병)]]
+- [[DM (당뇨병)]]

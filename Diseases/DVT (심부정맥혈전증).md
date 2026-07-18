@@ -5,7 +5,7 @@
 태그: [질환, 순환기]
 ---
 
-# Deep Vein Thrombosis (심부정맥혈전증)
+# DVT (심부정맥혈전증)
 
 > ℹ️ 참고용 · 최종 판단은 의사·최신 임상진료지침.
 
@@ -35,4 +35,4 @@
 - 항응고 출혈 감시
 
 ## 관련
-- [[Pulmonary Embolism (폐색전증)]] · [[VTE Prophylaxis (정맥혈전색전증예방간호)]] · [[D-dimer (디다이머)]]
+- [[PE (폐색전증)]] · [[VTE Prophylaxis (정맥혈전색전증예방간호)]] · [[D-dimer (디다이머)]]

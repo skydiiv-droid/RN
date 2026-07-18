@@ -26,4 +26,4 @@
 - ACE와 병용 피함
 
 ## 관련
-- [[Hypertension (고혈압)]] · [[Heart Failure (심부전)]]
+- [[HTN (고혈압)]] · [[HF (심부전)]]

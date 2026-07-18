@@ -29,4 +29,4 @@
 - [[Sepsis]]·[[Anaphylaxis]] 감별
 
 ## 관련
-- [[Sepsis (패혈증)]] · [[Acute Myocardial Infarction (급성심근경색)]]
+- [[Sepsis (패혈증)]] · [[AMI (급성심근경색)]]

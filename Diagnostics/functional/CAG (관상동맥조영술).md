@@ -22,7 +22,7 @@
 ## 간호
 - 천자부 지혈·말초맥박·출혈 감시
 - 수분·활력
-- [[Acute Myocardial Infarction (급성심근경색)]] 중재
+- [[AMI (급성심근경색)]] 중재
 
 ## 관련
-- [[Acute Myocardial Infarction (급성심근경색)]] · [[Angina Pectoris (협심증)]]
+- [[AMI (급성심근경색)]] · [[Angina Pectoris (협심증)]]

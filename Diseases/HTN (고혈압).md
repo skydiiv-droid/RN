@@ -5,7 +5,7 @@
 태그: [질환, 순환기]
 ---
 
-# Hypertension (고혈압)
+# HTN (고혈압)
 
 > ℹ️ 참고용 · 최종 판단은 의사·최신 임상진료지침.
 
@@ -38,4 +38,4 @@
 - 약물 순응도 강조(무증상이라 중단 위험)
 
 ## 관련
-- [[Heart Failure (심부전)]] · [[Chronic Kidney Disease (만성콩팥병)]] · [[Dyslipidemia (이상지질혈증)]]
+- [[HF (심부전)]] · [[CKD (만성콩팥병)]] · [[Dyslipidemia (이상지질혈증)]]
